@@ -1,1 +1,4 @@
 baseurl: /xuan_blog
+name: xuan blog
+markdown: redcarpet
+highlighter: pygments
